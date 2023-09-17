@@ -11,7 +11,7 @@ from Tabs import home, data, predict, visualise
 
 # Configure the app
 st.set_page_config(
-    page_title = 'Liver Disease Detector',
+    page_title = 'Hepatitis Disease Detector',
     page_icon = 'beer',
     layout = 'wide',
     initial_sidebar_state = 'auto'
